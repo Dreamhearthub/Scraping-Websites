@@ -13,7 +13,7 @@ def main():
     driver = webdriver.Chrome(options=options)
     driver.get(url)
 
-    time.sleep(8)
+    time.sleep(10)
 
     data = []
 
